@@ -1,0 +1,15 @@
+Package: cmprskHD
+Type: Package
+Title: Estimation and Inference for Cox and Fine-Gray model in High-dimensions. 
+Version: 1.0.0
+Author: Marquis (Jue) Hou
+Maintainer: Marquis (Jue) Hou <j7hou@ucsd.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends:
+    glmnet, survival
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
